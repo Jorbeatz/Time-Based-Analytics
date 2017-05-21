@@ -4,7 +4,7 @@
 ## Credit Suisse Hackathon (Code Suisse)
 * 3rd Place Winner
 
-#### Developers:
+## Developers:
 * Eric Weiss
 * Patrick Ferner
 * Jordy Guntur
